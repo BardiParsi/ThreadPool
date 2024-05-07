@@ -16,8 +16,8 @@ This project showcases a C++ implementation of the Thread Pool pattern, a concur
 
 - C++20 or above
 - This project is tested and compatible with the following compilers:
-    Mingw g++
-    Microsoft Visual C++ (MSVC)
+    - Mingw g++
+    - Microsoft Visual C++ (MSVC)
 
 ## Usage
 
